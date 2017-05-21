@@ -1,5 +1,7 @@
 package code201705;
-
+/*
+ * 用switch像是更快，现将每一位代表的数字存入数组，再遍历int数组
+ */
 import java.util.HashMap;
 
 public class RomantoInteger013 {

@@ -1,5 +1,7 @@
 package code201705;
-
+/*
+ * 翻转到一半即可比较
+ */
 public class PalindromeNumber009 {
     public boolean isPalindrome(int x) {
     	if (x < 0) {
